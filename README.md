@@ -4,6 +4,8 @@
 
 A PIC16 based Morse Code Clock
 
+It will blink green once a second, on the top of every minute will blink the hours in blue and the minutes in red following the morse code pattern for numbers, if picked up the tilt sensor will be activated and the alien tune from Close Encounters will play on the buzzer, followed by a multitude of colors blinking on the RGB led.
+
 Parts list:
 
 - PIC16F1827
