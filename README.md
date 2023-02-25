@@ -18,6 +18,9 @@ Parts list:
 - Resistors (3 x 150, 100 and 10k Ohms)
 - Tilt switch
 
+PWM code based on:
+
+- https://github.com/leozulfiu/pic16f88-piezobuzzer
 
 ![Morse Clock Sketch2_bb-Modificado](https://user-images.githubusercontent.com/38574378/221368391-db06acdf-d253-488d-a0c6-89eb9fa72cd5.png)
 
