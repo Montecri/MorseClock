@@ -24,4 +24,4 @@ PWM code based on:
 
 ![Morse Clock Sketch2_bb-Modificado](https://user-images.githubusercontent.com/38574378/221368391-db06acdf-d253-488d-a0c6-89eb9fa72cd5.png)
 
-https://www.linkedin.com/xxx
+https://www.linkedin.com/pulse/pic-tac-dit-dah-microcontroller-based-morse-code-clock-monteiro
